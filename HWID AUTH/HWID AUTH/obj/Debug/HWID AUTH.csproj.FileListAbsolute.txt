@@ -1,0 +1,10 @@
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\bin\Debug\HWID AUTH.exe.config
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\bin\Debug\HWID AUTH.exe
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\bin\Debug\HWID AUTH.pdb
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID AUTH.csprojAssemblyReference.cache
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID_AUTH.Form1.resources
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID_AUTH.Properties.Resources.resources
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID AUTH.csproj.GenerateResource.cache
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID AUTH.csproj.CoreCompileInputs.cache
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID AUTH.exe
+C:\Users\CehDe\source\repos\HWID AUTH\HWID AUTH\obj\Debug\HWID AUTH.pdb
